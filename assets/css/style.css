@@ -1389,13 +1389,13 @@ Asside widgets CSS
 
 .pagination ul {
     display: inline-block;
-    *display: inline;
+    display: inline;
     margin-bottom: 0;
     margin-left: 0;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    *zoom: 1;
+    zoom: 1;
     -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -1635,57 +1635,8 @@ padding: 0 0 0.5em;
 .left {
     text-align: left;
 }
-.garo-icon-dog-gry{
-    
-}
-.garo-icon-dog-gry::after{
-    
-}
-.garo-icon-car-gry{
-    
-}
-.garo-icon-car-gry::after{
-    
-}
-.garo-icon-area-gry{
-    
-}
-.garo-icon-area-gry::after{
-    
-}
-.garo-icon-sw-gry{
-    
-}
-.garo-icon-sw-gry::after{
-    
-}
-.garo-icon-shw-gry{
-    
-}
-.garo-icon-shw-gry::after{
-    
-}
 
-.garo-icon-wf-gry{
-    
-}
-.garo-icon-wf-gry::after{
-    
-}
 
-.garo-icon-bed-gry{
-    
-}
-.garo-icon-bed-gry::after{
-    
-}
-
-.garo-icon-zzz-gry{
-    
-}
-.garo-icon-zzz-gry::after{
-    
-}
 
 /*=====================================
 proerty-th 
